@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4187005c-eccb-481f-bae1-afe2b8b3494c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
-    "last_opened_file_path": "C:/Masters/projects/personal-website",
+    "last_opened_file_path": "C:/Masters/projects/personal-website/pranitdarekar.github.io",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -66,13 +66,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a2e18552-f425-4e89-b221-33ae2f1a3e27" name="Changes" comment="" />
+      <changelist id="4187005c-eccb-481f-bae1-afe2b8b3494c" name="Changes" comment="" />
       <created>1684794604400</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684794604400</updated>
       <workItem from="1684794605199" duration="10069000" />
       <workItem from="1684852863125" duration="23506000" />
+      <workItem from="1687660544524" duration="2973000" />
     </task>
     <servers />
   </component>
